@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "dependencies": [
+    "core",
+    "eslint-react",
+    "eslint-typescript",
+    "eslint",
+    "parcel",
+    "prettier",
+    "react",
+    "typescript-react",
+    "typescript-web",
+    "typescript",
+    "vscode"
+  ]
+}
